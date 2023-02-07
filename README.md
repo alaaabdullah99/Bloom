@@ -1,0 +1,2 @@
+# Bloom
+Bloom flower shop website was designed to help the process of purchasing and selling. the customer can purchase by first creating an account, or logging in if the account exists, the user can view all products and add them to the cart finishes by doing checkout also the user is able to see the list of orders that he did. the manager his role is to manage the products, which is able to add a new product to the system.
